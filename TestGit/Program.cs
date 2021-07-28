@@ -5,8 +5,10 @@ namespace TestGit
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+
             int k = 1000;
+            Console.WriteLine(k);
             
         }
     }
