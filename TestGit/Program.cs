@@ -8,7 +8,10 @@ namespace TestGit
         {
             string s = "Hello user!";
 
+        {   
+
             int k = 1000;
+            Console.WriteLine(k);
             
         }
     }
