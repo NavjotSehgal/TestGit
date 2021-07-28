@@ -6,9 +6,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            int i = 100;
-            int a = 50;
-            Console.WriteLine("Hello user!");
+            int k = 1000;
             
         }
     }
