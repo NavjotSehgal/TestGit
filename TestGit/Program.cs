@@ -6,6 +6,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
+            int a = 50;
             Console.WriteLine("Hello user!");
             
         }
