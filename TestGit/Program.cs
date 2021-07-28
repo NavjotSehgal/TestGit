@@ -7,9 +7,6 @@ namespace TestGit
         static void Main(string[] args)
         {
             string s = "Hello user!";
-
-        {   
-
             int k = 1000;
             Console.WriteLine(k);
             
